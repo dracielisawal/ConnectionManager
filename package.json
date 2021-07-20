@@ -1,6 +1,6 @@
 {
   "name": "com.winzo.winzomultiplayer",
-  "version": "1.2.3",
+  "version": "1.2.5",
   "displayName": "Winzo Multiplayer Plugin",
   "description": "This is an example package of Winzo Multiplayer Plugin",
   "unity": "2019.1",
